@@ -196,6 +196,11 @@
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>
+      <image name="md_marquee">
+         <pos>1.6 0.05</pos>
+         <origin>0 0</origin>
+         <maxSize>0.15 0.1</maxSize>
+      </image>       
    </view>
    
 </theme>
